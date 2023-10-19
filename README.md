@@ -20,3 +20,6 @@ https://docs.google.com/spreadsheets/d/1YJWKyI6rS8_pTGNsW4aPUNkw-rfPWijlIlykcU2K
 
 
 https://tykimos.github.io/2023/08/21/openai_chat_model_with_PDF/
+
+
+https://docs.google.com/presentation/d/1QyCku_NK4UY-k3-E-KtkuXEJklxD-rU2c8R-u6xwWHI/edit?usp=sharing
