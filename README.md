@@ -23,3 +23,5 @@ https://tykimos.github.io/2023/08/21/openai_chat_model_with_PDF/
 
 
 https://docs.google.com/presentation/d/1QyCku_NK4UY-k3-E-KtkuXEJklxD-rU2c8R-u6xwWHI/edit?usp=sharing
+
+https://chat.openai.com/share/9e688c4a-26ec-4145-ae79-42f0f8a64220
